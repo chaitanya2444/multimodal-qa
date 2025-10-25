@@ -1,0 +1,13 @@
+
+google-generativeai
+faiss-cpu
+python-docx
+python-pptx
+pdfminer.six
+pytesseract
+Pillow
+openai-whisper
+yt-dlp
+streamlit
+tqdm
+pytest
